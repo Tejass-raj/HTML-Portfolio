@@ -1,2 +1,2 @@
 # HTML-Portfolio
-A detailed resume of myself Tejas Raj.
+A detailed resume
